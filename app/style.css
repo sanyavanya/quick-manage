@@ -1,0 +1,13 @@
+.main-frame {
+  width: 100%;
+  height: 100%;
+}
+
+/* .float {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 100vh;
+  right: 100vw;
+  border: 2px solid red;
+} */
